@@ -12,6 +12,8 @@
 - Improving UI/UX skills
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boythesanket&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Boythesanket)
 
 ## Featured Projects
