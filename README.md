@@ -12,6 +12,8 @@
 - Improving UI/UX skills
 
 ## 📊 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Boythesanket&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boythesanket&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Boythesanket)
