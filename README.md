@@ -44,6 +44,5 @@ Collection of projects built while learning JavaScript.
 - Contribute to open source
 
 ## Connect
-
-Portfolio: https://subhash-ahirwar.vercel.app/
+Portfolio: https://subhash-ahirwar.vercel.app
 LinkedIn: https://www.linkedin.com/in/boythesankett/
