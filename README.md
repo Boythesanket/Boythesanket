@@ -1,40 +1,41 @@
 # Hi 👋 I'm Subhash Ahirwar
 
-Full-Stack Developer from India 🇮🇳
-
-Currently building web applications and learning modern web development.
+🚀 19-year-old developer from India
+💻 Building web applications with JavaScript, Node.js, and MongoDB
+📚 Currently creating Fininja, a Duolingo-inspired finance learning platform
+🎯 Goal: Become a world-class developer, entrepreneur, and build products used by millions
 
 ## Current Focus
-
 - Building Fininja
 - Learning JavaScript deeply
 - Exploring backend development
 - Improving UI/UX skills
 
 ## Tech Stack
-
-Frontend:
-HTML • CSS • JavaScript
-
-Backend:
-Node.js • Express.js
-
-Database:
-MongoDB
-
-Tools:
-Git • GitHub • VS Code
+![HTML5]
+![CSS3]
+![JavaScript]
+![Node.js]
+![MongoDB]
 
 ## Featured Projects
 
-### Fininja
+### 💰 Fininja
 Duolingo-style finance learning platform.
+🌐 Live Demo: https://fininja.vercel.app/
 
 ### Portfolio Website
-Showcase of my projects and journey.
+Personal portfolio featuring my projects, skills, and development journey.
 
 ### JavaScript Mini Projects
-Collection of projects built while learning JavaScript.
+A growing collection of projects demonstrating JavaScript fundamentals, DOM manipulation, APIs, and UI development.
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- Backend Architecture
+- MongoDB
+- Git & GitHub Workflows
+- Data Structures and Algorithms
 
 ## Goals for 2026
 
