@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Subhash Ahirwar 👋
 
-<!--
-**Boythesanket/Boythesanket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer
+📍 Ahmedabad, India
+💻 Currently learning JavaScript and building web applications
+🎯 Goal: Become a world-class developer and entrepreneur
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Fininja
+A Duolingo-style finance learning platform.
+
+### Mini Projects Collection
+Collection of frontend projects built while learning JavaScript.
+
+### Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+## Currently Learning
+- Advanced JavaScript
+- Backend Development
+- System Design
+
+## Connect With Me
+- Portfolio: https://subhash-ahirwar.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/boythesankett/
