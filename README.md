@@ -1,8 +1,13 @@
 # Hi 👋 I'm Subhash Ahirwar
 
+![](https://komarev.com/ghpvc/?username=Boythesanket&label=Profile+Views)
+
 🚀 19-year-old developer from India
+
 💻 Building web applications with JavaScript, Node.js, and MongoDB
+
 📚 Currently creating Fininja, a Duolingo-inspired finance learning platform
+
 🎯 Goal: Become a world-class developer, entrepreneur, and build products used by millions
 
 ## Current Focus
@@ -29,7 +34,16 @@
 ## Featured Projects
 
 ### 💰 Fininja
+
 Duolingo-style finance learning platform.
+
+Features:
+- Lessons
+- Quizzes
+- XP System
+- Streak Tracking
+- Progress Tracking
+
 🌐 Live Demo: https://fininja.vercel.app/
 
 ### Portfolio Website
@@ -47,11 +61,15 @@ A growing collection of projects demonstrating JavaScript fundamentals, DOM mani
 
 ## Goals for 2026
 
-- Learn Full-Stack, DSA
+- Master Full-Stack Development and DSA
 - Build production-grade projects
-- Get a internship
+- Get an internship
 - Contribute to open source
 
 ## Connect
+
 Portfolio: https://subhash-ahirwar.vercel.app
+
 LinkedIn: https://www.linkedin.com/in/boythesankett/
+
+> "Learn, build, improve, repeat."
