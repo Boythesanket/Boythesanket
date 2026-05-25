@@ -12,8 +12,11 @@
 - Improving UI/UX skills
 
 ## 📊 GitHub Stats
+
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boythesanket&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boythesanket&layout=compact)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Boythesanket)
 
 ## Featured Projects
