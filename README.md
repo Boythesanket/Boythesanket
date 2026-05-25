@@ -46,11 +46,6 @@ Features:
 
 🌐 Live Demo: https://fininja.vercel.app/
 
-### Portfolio Website
-Personal portfolio featuring my projects, skills, and development journey.
-
-### JavaScript Mini Projects
-A growing collection of projects demonstrating JavaScript fundamentals, DOM manipulation, APIs, and UI development.
 
 ## 🌱 Currently Learning
 - Advanced JavaScript
