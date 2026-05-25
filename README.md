@@ -1,36 +1,49 @@
-# Hi, I'm Subhash Ahirwar 👋
+# Hi 👋 I'm Subhash Ahirwar
 
-🚀 Full-Stack Developer
-📍 Ahmedabad, India
-💻 Currently learning JavaScript and building web applications
-🎯 Goal: Become a world-class developer and entrepreneur
+Full-Stack Developer from India 🇮🇳
+
+Currently building web applications and learning modern web development.
+
+## Current Focus
+
+- Building Fininja
+- Learning JavaScript deeply
+- Exploring backend development
+- Improving UI/UX skills
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+
+Frontend:
+HTML • CSS • JavaScript
+
+Backend:
+Node.js • Express.js
+
+Database:
+MongoDB
+
+Tools:
+Git • GitHub • VS Code
 
 ## Featured Projects
 
 ### Fininja
-A Duolingo-style finance learning platform.
-
-### Mini Projects Collection
-Collection of frontend projects built while learning JavaScript.
+Duolingo-style finance learning platform.
 
 ### Portfolio Website
-Personal portfolio showcasing projects and skills.
+Showcase of my projects and journey.
 
-## Currently Learning
-- Advanced JavaScript
-- Backend Development
-- System Design
+### JavaScript Mini Projects
+Collection of projects built while learning JavaScript.
 
-## Connect With Me
-- Portfolio: https://subhash-ahirwar.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/boythesankett/
+## Goals for 2026
+
+- Learn Full-Stack, DSA
+- Build production-grade projects
+- Get a internship
+- Contribute to open source
+
+## Connect
+
+Portfolio: https://subhash-ahirwar.vercel.app/
+LinkedIn: https://www.linkedin.com/in/boythesankett/
