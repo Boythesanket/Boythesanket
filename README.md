@@ -18,8 +18,6 @@
 - Exploring backend development
 - Improving UI/UX skills
 
-## 📊 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Boythesanket&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Tech Stack
 
