@@ -50,7 +50,7 @@ Features:
 ## 🌱 Currently Learning
 - Advanced JavaScript
 - Backend Architecture
-- MongoDB
+- PostgreSQL
 - Git & GitHub Workflows
 - Data Structures and Algorithms
 
