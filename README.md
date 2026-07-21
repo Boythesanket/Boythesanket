@@ -69,8 +69,5 @@ LinkedIn: https://www.linkedin.com/in/boythesankett/
 
 > "Learn, build, improve, repeat."
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0f0f0f,100:00ff88" />
