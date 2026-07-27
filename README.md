@@ -6,7 +6,7 @@
 
 🚀 19-year-old developer from India
 
-💻 Building web applications with JavaScript, Node.js, and MongoDB
+💻 Building web applications with JavaScript, Node.js, and PostgreSQL
 
 📚 Currently creating Fininja, a Duolingo-inspired finance learning platform
 
