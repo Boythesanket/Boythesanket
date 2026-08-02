@@ -51,7 +51,6 @@ Features:
 - Advanced JavaScript
 - Backend Architecture
 - PostgreSQL
-- Git & GitHub Workflows
 - Data Structures and Algorithms
 
 ## Goals for 2026
