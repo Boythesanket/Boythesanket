@@ -17,6 +17,7 @@
 - Learning JavaScript deeply
 - Exploring backend development
 - Improving UI/UX skills
+- Doing DSA
 
 
 ## 🛠️ Tech Stack
