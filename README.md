@@ -66,7 +66,7 @@ Features:
 
 Portfolio: https://subhash-ahirwar.vercel.app
 
-LinkedIn: https://www.linkedin.com/in/boythesankett/
+LinkedIn: https://www.linkedin.com/in/boythesankett
 
 > "Learn, build, improve, repeat."
 
