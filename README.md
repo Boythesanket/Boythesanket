@@ -68,7 +68,4 @@ Portfolio: https://subhash-ahirwar.vercel.app
 
 LinkedIn: https://www.linkedin.com/in/boythesankett
 
-> "Learn, build, improve, repeat."
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0f0f0f,100:00ff88" />
