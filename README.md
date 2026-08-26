@@ -42,7 +42,6 @@ Duolingo-style finance learning platform.
 Features:
 - Lessons
 - Quizzes
-- XP System
 - Streak Tracking
 - Progress Tracking
 
