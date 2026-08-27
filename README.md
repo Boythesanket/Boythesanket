@@ -50,6 +50,7 @@ Features:
 
 ## 🌱 Currently Learning
 - Advanced JavaScript
+- 2D Game Development 
 - Backend Architecture
 - PostgreSQL
 - Data Structures and Algorithms
